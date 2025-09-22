@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/raffle/static/css/main.f400071b.css",
-    "main.js": "/raffle/static/js/main.f2edc99d.js",
+    "main.js": "/raffle/static/js/main.dde554a6.js",
     "static/js/845.da34f4d1.chunk.js": "/raffle/static/js/845.da34f4d1.chunk.js",
     "static/media/DIN-Medium.ttf": "/raffle/static/media/DIN-Medium.ac50005d97791c65cf3e.ttf",
     "static/media/sahara.png": "/raffle/static/media/sahara.0601b73c6c04fc03dcb4.png",
     "index.html": "/raffle/index.html",
     "static/media/TDRA-white.svg": "/raffle/static/media/TDRA-white.2be25bddfdb9901e6b65a56f59df997b.svg",
     "main.f400071b.css.map": "/raffle/static/css/main.f400071b.css.map",
-    "main.f2edc99d.js.map": "/raffle/static/js/main.f2edc99d.js.map",
+    "main.dde554a6.js.map": "/raffle/static/js/main.dde554a6.js.map",
     "845.da34f4d1.chunk.js.map": "/raffle/static/js/845.da34f4d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f400071b.css",
-    "static/js/main.f2edc99d.js"
+    "static/js/main.dde554a6.js"
   ]
 }
